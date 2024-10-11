@@ -11,7 +11,7 @@
     │   ├── models/
     │   ├── repositories/
     │   ├── datasources/
-    │   └── graphql/
+    │   └── graphql/ #if you are using graphql you can use this folder
     ├── domain/
     │   ├── entities/
     │   ├── repositories/
