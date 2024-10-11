@@ -1,6 +1,30 @@
 # getx_clean_folder_architecture
 
-A new Flutter project.
+FOLDER STRUCTURE
+
+
+lib/
+├── core/
+│   ├── error/
+│   ├── network/
+│   ├── utils/
+│   └── constants.dart
+├── data/
+│   ├── models/
+│   ├── repositories/
+│   ├── datasources/
+│   └── graphql/
+├── domain/
+│   ├── entities/
+│   ├── repositories/
+│   └── usecases/
+├── presentation/
+│   ├── controllers/
+│   ├── pages/
+│   ├── widgets/
+│   └── themes/
+├── injection_container.dart
+└── main.dart
 
 ## Getting Started
 
