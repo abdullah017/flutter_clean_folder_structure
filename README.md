@@ -1,4 +1,4 @@
-# devabdullahtas_admin_panel
+# getx_clean_folder_architecture
 
 A new Flutter project.
 
