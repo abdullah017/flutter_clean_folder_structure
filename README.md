@@ -1,7 +1,4 @@
 # getx_clean_folder_architecture
-
-# getx_clean_folder_architecture
-
     
     
     lib/
