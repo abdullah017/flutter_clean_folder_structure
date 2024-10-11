@@ -1,4 +1,4 @@
-# getx_clean_folder_architecture
+# flutter_clean_folder_structure
     
     
     lib/
