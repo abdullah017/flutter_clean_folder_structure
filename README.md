@@ -139,3 +139,7 @@ The entry point of the application. Initializes the app and starts the root widg
 
 Uygulamanın giriş noktasıdır. Uygulamayı başlatır ve kök bileşeni çalıştırır.
 
+---
+!!! YOU CAN VISIT THE WIKI SECTION FOR FREQUENTLY ASKED QUESTIONS
+
+
